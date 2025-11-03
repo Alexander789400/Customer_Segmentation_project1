@@ -1,5 +1,6 @@
 # Customer_Segmentation_project1
 # ML Project
+# [Dataset Source Link](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation?select=Train.csv)
 # Used KNN Algorithm
 Context :
 An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4, and P5). After intensive market research, they’ve deduced that the behavior of the new market is similar to their existing market.
